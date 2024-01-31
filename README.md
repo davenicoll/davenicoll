@@ -23,4 +23,4 @@
 [![Kali](https://img.shields.io/badge/-Kali-141414?style=flat&logo=kalilinux)](https://www.kali.org/)
 [![MacOS](https://img.shields.io/badge/-MacOS-141414?style=flat&logo=apple)](https://www.apple.com/)
 
-![](https://komarev.com/ghpvc/?username=davenicoll&color=green)
+![](https://komarev.com/ghpvc/?username=davenicoll)
