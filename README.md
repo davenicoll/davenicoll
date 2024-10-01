@@ -1,3 +1,5 @@
+Technology I use and love:<br>
+<br>
 [![Go](https://img.shields.io/badge/-Go-141414?style=flat&logo=go)](https://go.dev/)
 [![Python](https://img.shields.io/badge/-Python-141414?style=flat&logo=python)](https://www.python.org/)
 [![C#](https://img.shields.io/badge/-C%23-141414?style=flat&logo=csharp)](https://learn.microsoft.com/en-us/dotnet/csharp/)
