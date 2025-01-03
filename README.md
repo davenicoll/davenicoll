@@ -1,3 +1,5 @@
+![Background Image](https://media.licdn.com/dms/image/v2/C4D16AQFAnnYV3qb5yA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1625088255951?e=1741219200&v=beta&t=R8mYwytD1a_xw6U3dttR_JuSiZrI-uzhhXPaLvNqZio)
+
 Technology I use and love:<br>
 <br>
 [![Go](https://img.shields.io/badge/-Go-141414?style=flat&logo=go)](https://go.dev/)
