@@ -20,7 +20,7 @@
 
 ### Hardware & hobby
 
-- **[usermod-github-health](https://github.com/davenicoll/usermod-github-health)** — WLED usermod that polls GitHub status and turns the strip red whenever something is broken.
+- **[usermod-github-health](https://github.com/davenicoll/usermod-github-health)** — WLED usermod that polls GitHub status and turns the Octolamp red whenever something is broken (which is a lot these days).
 - **[my-arcade-namco-museum](https://github.com/davenicoll/my-arcade-namco-museum)** — Device dump and teardown notes from the My Arcade Namco Museum cabinet.
 
 ### Screensavers
