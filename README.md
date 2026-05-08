@@ -45,7 +45,6 @@
 - **[github-goodies](https://github.com/davenicoll/github-goodies)** — Reusable GitHub templates, workflows, and rulesets I drop into new projects.
 - **[dotfiles](https://github.com/davenicoll/dotfiles)** — Personal dotfiles and bootstrap scripts for Ubuntu and macOS.
 - **[obsidian-template](https://github.com/davenicoll/obsidian-template)** — Starter vault mirroring my daily Obsidian setup.
-
 - **[slack-emojis](https://github.com/davenicoll/slack-emojis)** — Custom emoji collection for Slack workspaces.
 
 ### Useful gists
