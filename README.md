@@ -7,6 +7,7 @@
 
 - **[google-keep-mcp](https://github.com/davenicoll/google-keep-mcp)** — Model Context Protocol server that lets Claude and other LLMs read and write Google Keep notes. Published on PyPI.
 - **[claude-heads](https://github.com/davenicoll/claude-heads)** — Floating, Messenger-style chat heads on macOS for tracking multiple Claude Code sessions at a glance.
+- **[.claude](https://github.com/davenicoll/.claude)** — My personal Claude Code config: settings, custom agents, slash commands and hooks.
 
 ### Mobile & desktop apps
 
@@ -22,7 +23,6 @@
 
 - **[usermod-github-health](https://github.com/davenicoll/usermod-github-health)** — WLED usermod that polls GitHub status and turns the strip red whenever something is broken.
 - **[my-arcade-namco-museum](https://github.com/davenicoll/my-arcade-namco-museum)** — Device dump and teardown notes from the My Arcade Namco Museum cabinet.
-
 
 ### Screensavers
 
@@ -48,3 +48,10 @@
 - **[obsidian-template](https://github.com/davenicoll/obsidian-template)** — Starter vault mirroring my daily Obsidian setup.
 
 - **[slack-emojis](https://github.com/davenicoll/slack-emojis)** — Custom emoji collection for Slack workspaces.
+
+### Useful gists
+
+- **[Import GitHub stars to raindrop.io](https://gist.github.com/davenicoll/bbf624d060ff1f57896b29c1eab4973b)** — Syncs your starred repos to raindrop.io.
+- **[Prompt attacks](https://gist.github.com/davenicoll/4dcfd470bef8432062b3d6f78b2b5aaf)** — A working reference of prompt-injection techniques and defences against LLMs.
+- **[Bash strict mode](https://gist.github.com/davenicoll/a983700d3ba366f8236e2bcb299f748f)** — What `set -euxo pipefail` actually does, and why every shell script should start with it.
+- **[Top AWS mistakes in PCI-DSS, HIPAA & FedRAMP environments](https://gist.github.com/davenicoll/e85042307c69be122a2bafef5b4f6f91)** — Common architecture and compliance pitfalls when running regulated workloads on AWS.
