@@ -16,7 +16,6 @@
 - **[cant-decide](https://github.com/davenicoll/cant-decide)** — Multitouch group-decision app: everyone puts a finger down, it picks one.
 - **[storyteller](https://github.com/davenicoll/storyteller)** — Android/iOS app for playing an MP3 alongside a PDF — handy for narrated reading.
 - **[portarr](https://github.com/davenicoll/portarr)** — Sonarr/Radarr private mesh network for friends.
-
 - **[hang](https://github.com/davenicoll/hang.davenicoll.com)** — P2P remote worker collaboration app running at [hang.davenicoll.com](hang.davenicoll.com).
 
 ### Hardware & hobby
