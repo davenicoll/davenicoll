@@ -29,7 +29,7 @@
 
 ### Developer tools & utilities
 
-- **[hackernews-to-raindrop](https://github.com/davenicoll/hackernews-to-raindrop)** — Pulls your upvoted Hacker News posts and imports them into raindrop.io. *(25★)*
+- **[hackernews-to-raindrop](https://github.com/davenicoll/hackernews-to-raindrop)** — Pulls your upvoted Hacker News posts and imports them into raindrop.io.
 - **[google-maps-location-sharing](https://github.com/davenicoll/google-maps-location-sharing)** — Go-based workaround for the missing Google Maps Location Sharing API.
 - **[scraper](https://github.com/davenicoll/scraper)** — Python scraper that routes through public HTTP proxies and uses StealthKit for fingerprint obfuscation.
 - **[devtools](https://github.com/davenicoll/devtools)** — Containerised dev environment with my preferred tooling baked in.
