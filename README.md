@@ -14,6 +14,9 @@
 - **[snazzy-spelling](https://github.com/davenicoll/snazzy-spelling)** — Flutter app to help kids practise spelling.
 - **[cant-decide](https://github.com/davenicoll/cant-decide)** — Multitouch group-decision app: everyone puts a finger down, it picks one.
 - **[storyteller](https://github.com/davenicoll/storyteller)** — Android/iOS app for playing an MP3 alongside a PDF — handy for narrated reading.
+- **[portarr](https://github.com/davenicoll/portarr)** — Sonarr/Radarr private mesh network for friends.
+
+- **[hang](https://github.com/davenicoll/hang.davenicoll.com)** — P2P remote worker collaboration app running at [hang.davenicoll.com](hang.davenicoll.com).
 
 ### Hardware & hobby
 
@@ -30,7 +33,6 @@
 - **[hackernews-to-raindrop](https://github.com/davenicoll/hackernews-to-raindrop)** — Pulls your upvoted Hacker News posts and imports them into raindrop.io. *(25★)*
 - **[google-maps-location-sharing](https://github.com/davenicoll/google-maps-location-sharing)** — Go-based workaround for the missing Google Maps Location Sharing API.
 - **[scraper](https://github.com/davenicoll/scraper)** — Python scraper that routes through public HTTP proxies and uses StealthKit for fingerprint obfuscation.
-- **[share.davenicoll.com](https://github.com/davenicoll/share.davenicoll.com)** — Self-hosted file-sharing service powering share.davenicoll.com.
 - **[devtools](https://github.com/davenicoll/devtools)** — Containerised dev environment with my preferred tooling baked in.
 - **[daisyui](https://github.com/davenicoll/daisyui)** — AI implementation guide for daisyUI.
 
