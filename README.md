@@ -8,6 +8,7 @@
 - **[google-keep-mcp](https://github.com/davenicoll/google-keep-mcp)** — Model Context Protocol server that lets Claude and other LLMs read and write Google Keep notes. Published on PyPI.
 - **[claude-heads](https://github.com/davenicoll/claude-heads)** — Floating, Messenger-style chat heads on macOS for tracking multiple Claude Code sessions at a glance.
 - **[.claude](https://github.com/davenicoll/.claude)** — My personal Claude Code config: settings, custom agents, slash commands and hooks.
+- **[daisyui](https://github.com/davenicoll/daisyui)** — AI implementation guide for daisyUI.
 
 ### Mobile & desktop apps
 
@@ -33,7 +34,6 @@
 - **[google-maps-location-sharing](https://github.com/davenicoll/google-maps-location-sharing)** — Go-based workaround for the missing Google Maps Location Sharing API.
 - **[scraper](https://github.com/davenicoll/scraper)** — Python scraper that routes through public HTTP proxies and uses StealthKit for fingerprint obfuscation.
 - **[devtools](https://github.com/davenicoll/devtools)** — Containerised dev environment with my preferred tooling baked in.
-- **[daisyui](https://github.com/davenicoll/daisyui)** — AI implementation guide for daisyUI.
 
 ### Cloud & infrastructure
 
